@@ -4,3 +4,4 @@ node_modules
 node
 
 maven-frontend-plugin-test.iml
+/.idea

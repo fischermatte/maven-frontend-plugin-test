@@ -1,0 +1,1 @@
+Test project for Maven Frontend Plugin Issue https://github.com/eirslett/frontend-maven-plugin/issues/98
